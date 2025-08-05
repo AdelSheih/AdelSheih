@@ -1,5 +1,5 @@
 # 💫 About Me:
- Java Developer with hands-on experience in building Spring Boot applications and supporting enterprise sys<br>tems in production. Skilled in designing RESTful APIs, writing backend utilities, and resolving real-world<br> issues in fast-paced environments.
+ Java Developer with hands-on experience in building Spring Boot applications and enterprise sys<br>tems in production. Skilled in designing RESTful APIs, writing backend utilities, and resolving real-world<br> issues in fast-paced environments.
 
 
 ## 🌐 Socials:
